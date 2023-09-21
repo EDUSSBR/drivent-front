@@ -1,3 +1,94 @@
+
+# DRIVENT - FRONTEND
+
+This is the front-end of a white-label app designed for selling events and facilitating talk subscriptions, with the added capability of booking accommodations in partner hotels.
+<div  align="center">
+<img src="/public/front-drivent.jpeg" />
+</div>
+
+## About
+
+Introducing a web application for easy getting the clients for your events. Key features include:
+
+- User Sign Up
+- Secure Login
+- Event Subcription
+- Ability to sell both In-person and Remote Ticket
+- Seamless integration with partner hotels, simplifying the booking process for users across a wide range of options.
+- Direct Credit Card Payments
+- Capacity Management for event venues.
+- Hotel Room Booking Management.
+- Users have the flexibility to switch rooms if desired.
+- Tracking of subscribed users for each activity.
+- Generation of certifications after the event concludes.
+This app empowers users to gain insights into their spending habits and maintain a clear overview of their financial balance at all times.
+
+## Technologies
+The following tools and frameworks were used in the construction of the project:<br>
+<p>
+  <img style='margin: 5px;' src='https://img.shields.io/badge/styled-components%20-%2320232a.svg?&style=for-the-badge&color=b8679e&logo=styled-components&logoColor=%3a3a3a'>
+  <img style='margin: 5px;' src='https://img.shields.io/badge/axios%20-%2320232a.svg?&style=for-the-badge&color=informational'>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/react-app%20-%2320232a.svg?&style=for-the-badge&color=60ddf9&logo=react&logoColor=%2361DAFB"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/react_route%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img style='margin: 5px;' src='https://img.shields.io/badge/react-icons%20-%2320232a.svg?&style=for-the-badge&color=f28dc7&logo=react-icons&logoColor=%2361DAFB'>
+</p>
+
+## Next Steps
+
+As a next step, here are some plans for further development:
+
+- Implement a dashboard for visualizing financial data.
+- Add labels for classifying expenses (e.g., "Groceries," "Entertainment," "Utilities," etc.).
+
+## How to run
+
+1. Clone this repository
+2. Clone the back-end repository at https://github.com/my-user/my-project-backend
+3. Follow instructions to run back-end at https://github.com/my-user/my-project-backend 
+4. Install dependencies
+   
+```bash
+npm i
+```
+5. Run the front-end with
+```bash
+npm start
+```
+6. You can optionally build the project running
+```bash
+npm run build
+```
+7. Finally access http://localhost:3000 on your favorite browser (unless it is Internet Explorer. In this case, review your life decisions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # drivent-front
 
 Front-end for Driven.t, an event management solution.
